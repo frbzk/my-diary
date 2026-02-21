@@ -1,6 +1,8 @@
 import os
 from datetime import datetime
 from pathlib import Path
+#/home/ou/桌面/Notes
+#/home/ou/桌面/Notes/function/create_diary.py
 
 def create_daily_note():
     # 1. 取得當前日期
